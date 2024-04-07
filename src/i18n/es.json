@@ -1,0 +1,17 @@
+{
+  "hello": "hola",
+  "languages": {
+    "label": "Cambiar idioma",
+    "en": "English",
+    "es": "Español"
+  },
+  "nav": {
+    "Home": "Inicio",
+    "Dashboard": "Tablero",
+    "Lamp": "Lámpara"
+  },
+  "not_found": {
+    "page": "Página no encontrada",
+    "go_to_home": "Volver a inicio"
+  }
+}
