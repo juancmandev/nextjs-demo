@@ -2,6 +2,7 @@
 
 # PocketBase local DB
 /pb_data
+/pocketbase
 
 # dependencies
 /node_modules
