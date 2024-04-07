@@ -29,7 +29,7 @@ export default function RootLayout(props: Props) {
         >
           <Sidebar />
           <Header />
-          <main className='pl-20 pt-20 pb-10'>{props.children}</main>
+          <main className='pl-20 pr-10 pt-20 pb-10'>{props.children}</main>
           <Toaster />
         </NextIntlClientProvider>
       </body>
