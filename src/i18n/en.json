@@ -13,5 +13,24 @@
   "not_found": {
     "page": "Page not found",
     "go_to_home": "Go to home"
+  },
+  "customers": "Customers",
+  "no_customers": "No customers",
+  "form": {
+    "create_customer": "Create customer",
+    "name": "Name",
+    "name_required": "Name required",
+    "name_invalid": "Name invalid",
+    "email": "Email",
+    "email_required": "Email required",
+    "email_invalid": "Email invalid",
+    "product": "Product",
+    "product_required": "Product required",
+    "product_invalid": "Product invalid",
+    "select_product": "Select product",
+    "submit": "Submit",
+    "submitting": "Submitting...",
+    "success": "Record created successfully!",
+    "error": "An error ocurred..."
   }
 }

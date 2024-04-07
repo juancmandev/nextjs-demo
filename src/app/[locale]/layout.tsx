@@ -3,6 +3,7 @@ import { NextIntlClientProvider, useMessages } from 'next-intl';
 import NextTopLoader from 'nextjs-toploader';
 import Sidebar from '@/components/sidebar';
 import Header from '@/components/header';
+import { Toaster } from '@/components/ui/sonner';
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
@@ -28,7 +29,8 @@ export default function RootLayout(props: Props) {
         >
           <Sidebar />
           <Header />
-          <main className='pl-20 pt-20'>{props.children}</main>
+          <main className='pl-20 pt-20 pb-10'>{props.children}</main>
+          <Toaster />
         </NextIntlClientProvider>
       </body>
     </html>

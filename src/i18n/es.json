@@ -13,5 +13,24 @@
   "not_found": {
     "page": "Página no encontrada",
     "go_to_home": "Volver a inicio"
+  },
+  "customers": "Clientes",
+  "no_customers": "No existen clientes",
+  "form": {
+    "create_customer": "Crear cliente",
+    "name": "Nombre",
+    "name_required": "Nombre requerido",
+    "name_invalid": "Nombre no válido",
+    "email": "Email",
+    "email_required": "Email requerido",
+    "email_invalid": "Email no válido",
+    "product": "Producto",
+    "product_required": "Producto requiredo",
+    "product_invalid": "Producto no válido",
+    "select_product": "Seleccionar producto",
+    "submit": "Enviar",
+    "submitting": "Enviando...",
+    "success": "¡Registro creado exitosamente!",
+    "error": "Ha ocurrido un error..."
   }
 }
