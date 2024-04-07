@@ -36,8 +36,8 @@ export type AuthSystemFields<T = never> = {
 // Record types for each collection
 
 export type CustomersRecord = {
-  email?: string;
-  name?: string;
+  email: string;
+  name: string;
   products?: RecordIdString[];
 };
 
